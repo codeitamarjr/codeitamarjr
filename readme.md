@@ -9,14 +9,6 @@
 
 [<img align="left" alt="My Youtube Channel" width= "30px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg" />][youtube]
 
-
-[<img align="left" alt="My Twitter" width= "30px" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.2560.jpg" />][twitter]
-
-
-
-
-
-
 <br/>
 <br/>
 
@@ -25,4 +17,3 @@
 [instagram]:https://www.instagram.com/it.jr/
 [linkedin]:https://www.linkedin.com/in/itamarjr/
 [youtube]:https://www.youtube.com/TIemDublin
-[twitter]: https://twitter.com/itjunior
