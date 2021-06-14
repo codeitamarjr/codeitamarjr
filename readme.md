@@ -1,14 +1,23 @@
 ### Hi there,   I'm Itamar Junior - aka [codeitamarjr][website]
-
-## I'm a nerd, photographer, rich and gorgeus( also a bit liar)!
+<br/>
+ I'm a nerd, gamer, photographer, rich and gorgeous( also a bit liar)!
 
 ### Connect with me:
 [<img align="left" alt="My Instagram" width= "26px" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=150&h=150" />][instagram]
 
+[<img align="left" alt="My Linkedin" width= "26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+
+[<img align="left" alt="My Youtube Channel" width= "26px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5
+" />][youtube]
+
+
+
+
+
 <br/>
 <br/>
 
-[website]: www.itjunior.dev
+[website]: https://www.itjunior.dev
 [codeitamarjr]: https://github.com/codeitamarjr
 [instagram]:https://www.instagram.com/it.jr/
 [linkedin]:https://www.linkedin.com/in/itamarjr/
