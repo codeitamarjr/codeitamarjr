@@ -3,7 +3,7 @@
 ## I'm a nerd, photographer, rich and gorgeus( also a bit liar)!
 
 ### Connect with me:
-[<img align="left" alt="My Instagram" widht= "26px" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=150&h=150" />][instagram]
+[<img align="left" alt="My Instagram" width= "26px" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=150&h=150" />][instagram]
 
 <br/>
 <br/>
