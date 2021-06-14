@@ -7,7 +7,7 @@
 
 [<img align="left" alt="My Linkedin" width= "25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
-[<img align="left" alt="My Youtube Channel" width= "30px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg" />][youtube]
+[<img align="left" alt="My Youtube Channel" width= "30px" target="_blank" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg" />][youtube]
 
 <br/>
 <br/>
