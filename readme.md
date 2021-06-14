@@ -16,4 +16,4 @@
 [codeitamarjr]: https://github.com/codeitamarjr
 [instagram]:https://www.instagram.com/it.jr/
 [linkedin]:https://www.linkedin.com/in/itamarjr/
-[youtube]: target="_blank" https://www.youtube.com/TIemDublin
+[youtube]: https://www.youtube.com/TIemDublin
