@@ -2,7 +2,7 @@
 
 I'm a Computer Science student, nerd, gamer, photographer, rich and gorgeous( also a bit liar)!
 
-##Skills:
+## Skills:
 * ☕ JAVA
 * 💻 HTML / CSS
 
