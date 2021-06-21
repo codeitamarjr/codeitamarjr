@@ -1,4 +1,4 @@
-### Hi there 👋, Itamar **Junior**
+### Hi there 👋, I'm Itamar **Junior**
 #### Computer Science Student
 I'm a nerd, gamer, photographer, rich and gorgeous( also a bit liar)!
 
