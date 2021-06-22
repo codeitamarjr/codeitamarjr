@@ -1,19 +1,12 @@
-### Hi there,   I'm Itamar Junior - aka [codeitamarjr][website]
+#  Itamar **Junior**
 
- I'm a nerd, gamer, photographer, rich and gorgeous( also a bit liar)!
+I'm a Computer Science student, nerd, gamer, photographer, rich and gorgeous( also a bit liar)!
 
-### Connect with me:
-[<img align="left" alt="My Instagram" width= "20px" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=150&h=150" />][instagram]
+## Skills and Experience:
+* ☕ JAVA
+* 💻 HTML / CSS, also frameworks such a Bootstrap.
+* 🌐 Wordpress
 
-[<img align="left" alt="My Linkedin" width= "25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codeitamarjr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/itamarjr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/it.jr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/TIemDublin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.itjunior.dev/)  
 
-[<img align="left" alt="My Youtube Channel" width= "30px" src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg" />][youtube]
-
-<br/>
-<br/>
-
-[website]: https://www.itjunior.dev
-[codeitamarjr]: https://github.com/codeitamarjr
-[instagram]:https://www.instagram.com/it.jr/
-[linkedin]:https://www.linkedin.com/in/itamarjr/
-[youtube]: https://www.youtube.com/TIemDublin
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeitamarjr)](https://github.com/anuraghazra/github-readme-stats)
