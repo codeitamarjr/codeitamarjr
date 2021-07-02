@@ -13,7 +13,7 @@ I'm a Computer Science student, nerd, gamer, photographer, rich and gorgeous( al
 
 ## Personal Projects
 
-#### Personal web page version 2[new]
+#### Personal web page v2
 
 HTML and custom CSS hosted on GitHub
 
