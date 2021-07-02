@@ -25,6 +25,6 @@ HTML and custom CSS hosted on GitHub
 
 Bootstrap with custom CSS hosted on GitHub
 
- - [GitHub - Blog_version1.0](https://github.com/codeitamarjr/Blog_version1.0)
+ - [GitHub - Personal page v1.0](https://github.com/codeitamarjr/Blog_version1.0)
 
    
