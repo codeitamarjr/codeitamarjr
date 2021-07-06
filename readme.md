@@ -45,7 +45,7 @@ Ready BSC One, the Summer Camp for fresh students at Dorset College in Dublin
 - [Guess Game](https://github.com/codeitamarjr/S2Week1JavaExercises) A guess game in Java to play with two person
 
 #### Lotery System
--[Lotery](https://github.com/codeitamarjr/S1Week9JavaLabExam) A lottery system that generates random numbers and checks if the user can find out the numbers, showing the result of the ticket as 1st, 2nd and 3rd place.
+- [Lotery](https://github.com/codeitamarjr/S1Week9JavaLabExam) A lottery system that generates random numbers and checks if the user can find out the numbers, showing the result of the ticket as 1st, 2nd and 3rd place.
 
 
    
