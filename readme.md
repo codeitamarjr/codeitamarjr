@@ -18,7 +18,6 @@ I'm a Computer Science student, nerd, gamer, photographer, rich and gorgeous( al
 HTML and custom CSS hosted on GitHub
 
  - [GitHub - S2UXUIPersonalPage_blog](https://github.com/codeitamarjr/S2UXUIPersonalPage_blog)
-
  - [Live Page](https://www.itjunior.dev/)
 
 #### Personal page version 1.0
