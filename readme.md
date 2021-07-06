@@ -47,5 +47,8 @@ Ready BSC One, the Summer Camp of 2021 for fresh students at Dorset College in D
 #### Lotery System
 - [Lotery](https://github.com/codeitamarjr/S1Week9JavaLabExam) A lottery system that generates random numbers and checks if the user can find out the numbers, showing the result of the ticket as 1st, 2nd and 3rd place.
 
+#### Bloody Sytem
+- [Blood system](https://github.com/codeitamarjr/S1Week12JavaProject) A system that checks which blood group type is compatible with the user blood type.
+
 
    
