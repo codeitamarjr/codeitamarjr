@@ -39,5 +39,10 @@ Ready BSC One, the Summer Camp for fresh students at Dorset College in Dublin
 
  - [Ready BSc One](https://github.com/codeitamarjr/DorsetCollegeSummerCamp)
 
+## Nice Colleges work ;)
+
+#### Guess Game
+- [Guess Game](https://github.com/codeitamarjr/S2Week1JavaExercises)A guess game in Java to play with two person
+
 
    
