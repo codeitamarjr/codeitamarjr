@@ -27,4 +27,9 @@ Bootstrap with custom CSS hosted on GitHub
  - [GitHub - Personal page v1.0](https://github.com/codeitamarjr/Blog_version1.0)
  - [DEMO](https://codeitamarjr.github.io/Blog_version1.0/)
 
+#### My blog about tips and tricks in Ireland for foreign
+
+Wordpress and custom CSS, hosted on a EC2 by AWS
+
+ - [Mochilando na Europa](https://www.mochilandonaeuropa.com)
    
