@@ -32,4 +32,12 @@ Bootstrap with custom CSS hosted on GitHub
 Wordpress and custom CSS, hosted on a EC2 by AWS
 
  - [Mochilando na Europa](https://www.mochilandonaeuropa.com)
+
+## Dorset College Summer Camp
+
+#### Ready BSC One, the Summer Camp for fresh students at Dorset College in Dublin
+
+ - [Ready BSc One](https://github.com/codeitamarjr/DorsetCollegeSummerCamp)
+
+
    
