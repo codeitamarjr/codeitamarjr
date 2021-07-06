@@ -42,7 +42,7 @@ Ready BSC One, the Summer Camp for fresh students at Dorset College in Dublin
 ## Nice Colleges work ;)
 
 #### Guess Game
-- [Guess Game](https://github.com/codeitamarjr/S2Week1JavaExercises)A guess game in Java to play with two person
+- [Guess Game](https://github.com/codeitamarjr/S2Week1JavaExercises) A guess game in Java to play with two person
 
 
    
