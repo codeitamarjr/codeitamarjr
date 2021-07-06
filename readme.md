@@ -20,7 +20,7 @@ HTML and custom CSS hosted on GitHub
  - [GitHub - S2UXUIPersonalPage_blog](https://github.com/codeitamarjr/S2UXUIPersonalPage_blog)
  - [Live Page](https://www.itjunior.dev/)
 
-#### Personal page version 1.0
+#### Personal page v1
 
 Bootstrap with custom CSS hosted on GitHub
 
