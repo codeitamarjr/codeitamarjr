@@ -50,5 +50,5 @@ Ready BSC One, the Summer Camp of 2021 for fresh students at Dorset College in D
 #### Bloody Sytem
 - [Blood system](https://github.com/codeitamarjr/S1Week12JavaProject) A system that checks which blood group type is compatible with the user blood type.
 
-
-   
+#### Web Designer Class
+- [Web Designer](https://github.com/codeitamarjr/Y2S1FronEndWebDevelopment) Exercises of Web Designer.
