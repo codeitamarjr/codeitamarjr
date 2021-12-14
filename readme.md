@@ -35,7 +35,7 @@ Wordpress and custom CSS, hosted on a EC2 by AWS
 
 #### My API about Climate Change
 
-It is an API that get is the news about The Climate Change, see the disclaimer and readme for more info.
+It is an API that gets the news about The Climate Change, see the disclaimer to check the source and readme for more info.
 
  - [Climate Change API](https://github.com/codeitamarjr/API-climate-change)
 
