@@ -39,6 +39,12 @@ It is an API that gets the news about The Climate Change, see the disclaimer to 
 
  - [Climate Change API](https://github.com/codeitamarjr/API-climate-change)
 
+#### My API about Shopping
+
+API-Shopping it's an API that retrieves the price of goods from local shopping that has an online store option available. The first one is Tesco(ie).
+
+ - [API Shopping](https://github.com/codeitamarjr/API-shopping)
+
 ## Dorset College Summer Camp
 
 Ready BSC One, the Summer Camp of 2021 for fresh students at Dorset College in Dublin
