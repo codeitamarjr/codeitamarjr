@@ -15,7 +15,7 @@ I'm a Computer Science student, nerd, gamer, photographer, rich and gorgeous( al
 
 #### CRM
 
-Customer Relationship Management for Property Management
+Web Customer Relationship Management for Property Management
 
  - [Real Enquiries](https://github.com/codeitamarjr/CRM-Real-State)
 
