@@ -66,6 +66,10 @@ API-Shopping it's an API that retrieves the price of goods from local shopping t
 
  - [API Shopping](https://github.com/codeitamarjr/API-shopping)
 
+### A cool Web Pokedex from PokeAPI
+
+- [Pokedex](https://github.com/codeitamarjr/WebPokedex)
+
 ## Dorset College Summer Camp
 
 Ready BSC One, the Summer Camp of 2021 for fresh students at Dorset College in Dublin
