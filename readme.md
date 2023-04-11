@@ -17,7 +17,22 @@ I'm a Computer Science student, nerd, gamer, photographer, rich and gorgeous( al
 
 Web Customer Relationship Management for Property Management
 
- - [Real Enquiries](https://github.com/codeitamarjr/CRM-Real-State)
+ - [Real Enquiries](https://www.realenquiries.com)
+ - [Real Enquiries on my Linkedin](https://www.linkedin.com/pulse/crm-project-real-enquiries-itamar-atanasio-da-silva-junior)
+ - [Real Enquiries | Linkedin Post : Say Goodbye to Manual Work! DocuSign API Integration for Efficient Lease and License Management](https://www.linkedin.com/pulse/say-goodbye-manual-work-docusign-api-integration-da-silva-junior-1c)
+
+### Java 2D Gaming
+
+I recently developed a small 2D game project using HTML5, CSS3, and JavaScript. This project provided valuable hands-on experience in utilizing object-oriented programming concepts such as abstract classes, properties, and inheritances, as well as creating animations within the HTML5 canvas. It was a challenging yet rewarding experience, enhancing my skills in web development and game design.
+
+- [Java 2D Gaming](https://github.com/codeitamarjr/Java-2D-Gaming-HTML--CSS-and-JavaScript)
+
+### TODO Full-stack webapp with Django, Flask and MongoDB
+
+A full stack web application(CRUD) with Django using Python, Flask, Bootstrap and MongoDB.
+
+- [TODOAPP](https://github.com/codeitamarjr/Y3S2PythonDjangoFlaskMongoDBCA4)
+
 
 #### Personal web page v2
 
@@ -39,13 +54,13 @@ Wordpress and custom CSS, hosted on a EC2 by AWS
 
  - [Mochilando na Europa](https://www.mochilandonaeuropa.com)
 
-#### My API about Climate Change
+#### My API Climate Change
 
 It is an API that gets the news about The Climate Change, see the disclaimer to check the source and readme for more info.
 
  - [Climate Change API](https://github.com/codeitamarjr/API-climate-change)
 
-#### My API about Shopping
+#### My API Shopping
 
 API-Shopping it's an API that retrieves the price of goods from local shopping that has an online store option available. The first one is Tesco(ie).
 
